@@ -74,11 +74,11 @@ style = 'algol'
 # Deploy settings
 
 [params.giscus]
-enable = false
-repo = "user/repo"
-repoid = "repoId"
-category = "General"
-categoryid = "categoryId"
+enable = true
+repo = "cassiofariasmachado/website"
+repoid = "R_kgDOPjji3A"
+category = "Post"
+categoryid = "DIC_kwDOPjji3M4CujPi"
 mapping = "pathname"
 theme = "preferred_color_scheme"
 
