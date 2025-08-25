@@ -3,9 +3,6 @@ languageCode = 'en-us'
 title = 'Cássio Farias Machado'
 theme = 'typo'
 
-# Google analytics code
-# googleAnalytics = "G-xxxxxxxxx"
-
 [taxonomies]
 tag = 'tags'
 
@@ -81,3 +78,6 @@ category = "General"
 categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
+
+# Google analytics code
+googleAnalytics = "G-JP47B0M21J"
