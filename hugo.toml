@@ -79,5 +79,3 @@ categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
 
-# Google analytics code
-googleAnalytics = "G-JP47B0M21J"
