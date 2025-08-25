@@ -9,10 +9,6 @@ tag = 'tags'
 [params]
 # Meta description
 description = "Personal website and tech blog created and managed by Cássio Farias Machado"
-showFooter = true
-footerContent = """
-Coded with ❤️ using [Hugo](https://gohugo.io) and [typo](https://github.com/tomfran/typo) theme
-"""
 
 # Appearance settings
 theme = 'auto'
@@ -27,6 +23,12 @@ homeCollection = 'posts'
 paginationSize = 10
 listSummaries = true
 listDateFormat = '2 Jan 2006'
+
+# Footer
+showFooter = true
+footerContent = """
+Coded with ❤️ using [Hugo](https://gohugo.io) and [typo](https://github.com/tomfran/typo) theme
+"""
 
 # Breadcrumbs
 [params.breadcrumbs]
@@ -69,7 +71,8 @@ url = "/contact"
 [markup.highlight]
 style = 'algol'
 
-# Giscus comments
+# Deploy settings
+
 [params.giscus]
 enable = false
 repo = "user/repo"
@@ -79,3 +82,7 @@ categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
 
+[params.umami]
+enable = true
+websiteId = "41325d67-f3dd-447f-9f61-aded05b2c17b"
+jsLocation = "https://cloud.umami.is/script.js"
