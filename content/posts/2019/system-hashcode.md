@@ -2,7 +2,7 @@
 title: "System.HashCode: It's never been easier to implement GetHashCode method"
 author: "Cássio"
 authorAvatarPath: "/profile.jpeg"
-date: "2018-09-17"
+date: "2019-08-30"
 summary: "Overview about using System.HashCode to simplify GetHashCode implementations in .NET Core."
 description: "Overview about using System.HashCode to simplify GetHashCode implementations in .NET Core."
 toc: false
