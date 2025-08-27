@@ -1,5 +1,5 @@
 ---
-title: "Announcement"
+title: "Announcement 🎉"
 author: "Cássio"
 authorAvatarPath: "/profile.jpeg"
 date: "2025-08-24"
