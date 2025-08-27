@@ -2,6 +2,7 @@
 title: "Home"
 slug: "home"
 date: 2025-08-24 20:30:00
+disableComment: true
 ---
 
 {{< figure src="/profile.jpeg" alt="Image of Cássio" width="150px" >}}

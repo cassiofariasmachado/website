@@ -34,7 +34,7 @@ Coded with ❤️ using [Hugo](https://gohugo.io) and [typo](https://github.com/
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
-home = "Home"
+home = "~"
 
 # Social icons
 [[params.social]]
@@ -55,12 +55,12 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
+name = "whoami"
+url = "/whoami"
 
 [[params.menu]]
-name = "about"
-url = "/about"
+name = "posts"
+url = "/posts"
 
 [[params.menu]]
 name = "contact"
@@ -72,6 +72,15 @@ url = "/contact"
 style = 'algol'
 
 # Deploy settings
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
 
 [params.giscus]
 enable = true
