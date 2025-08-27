@@ -19,3 +19,5 @@ Fun facts:
 - Father of a stubborn Bulldog who thinks he’s the boss;
 - Always available for a cup of ☕️, 🍻 or 🧉;
 - Die-hard fan of [S.C. Internacional](https://internacional.com.br/).
+
+> ⚠️ The views and opinions expressed on this website/blog are those of the author and do not necessarily reflect the views of any company with which he is or has been affiliated.
