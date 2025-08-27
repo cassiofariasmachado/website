@@ -62,7 +62,7 @@ public class Person
 }
 ```
 
-![Deadpool surprised with the System.HashCode struct](static/posts/2019/system-hashcode/suprised-deadpool.gif)
+![Deadpool surprised with the System.HashCode struct](/posts/2019/system-hashcode/suprised-deadpool.gif)
 
 Much easier, right!?
 
