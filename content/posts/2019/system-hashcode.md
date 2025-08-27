@@ -15,6 +15,9 @@ hideBackToTop: false
 fediverse: "@cassiofariasmachado@mastodon.social"
 ---
 
+> ℹ️ This article was originally published in Portuguese on Medium. You can read the original version [here](https://medium.com/cwi-software/system-hashcode-nunca-foi-t%C3%A3o-f%C3%A1cil-implementar-o-m%C3%A9todo-gethashcode-de-suas-classes-4f1ff84819b3).
+
+
 Who has never lost good minutes searching the internet when they had to override the `GetHashCode` method? I have!
 
 It was quite common to find confusing implementations like this one:
