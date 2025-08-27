@@ -12,6 +12,7 @@ math: false
 tags: []
 showTags: true
 hideBackToTop: false
+hidePagination: false
 fediverse: "@cassiofariasmachado@mastodon.social"
 ---
 

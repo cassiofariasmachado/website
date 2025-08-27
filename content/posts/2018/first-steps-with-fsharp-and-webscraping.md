@@ -12,6 +12,7 @@ math: false
 tags: ["fsharp", "web-scraping", "dotnet"]
 showTags: true
 hideBackToTop: false
+hidePagination: false
 fediverse: "@cassiofariasmachado@mastodon.social"
 ---
 

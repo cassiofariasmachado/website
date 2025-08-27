@@ -3,6 +3,8 @@ title: "Contact"
 slug : "contact"
 date: 2025-08-24 20:30:00
 disableComment: true
+hidePagination: true
+hideBackToTop: true
 ---
 
 Feel free to contact me regarding anything via:

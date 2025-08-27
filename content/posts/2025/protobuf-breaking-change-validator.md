@@ -12,6 +12,7 @@ math: false
 tags: ["protobuf", "schema", "schema-validation", "events", "event-driven-architecture", "event-based-systems"]
 showTags: true
 hideBackToTop: false
+hidePagination: false
 fediverse: "@cassiofariasmachado@mastodon.social"
 ---
 
