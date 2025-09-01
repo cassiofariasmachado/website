@@ -1,15 +1,16 @@
 ---
 title: "Contact"
 slug : "contact"
-date: 2025-08-24 20:30:00
 disableComment: true
 hidePagination: true
 hideBackToTop: true
 ---
 
-Feel free to contact me regarding anything via:
+You can reach me through the following channels:
 
-- E-mail: [contact@cassiofariasmachado.com](mailto:contact@cassiofariasmachado.com)
-- LinkedIn: [in/cassiofariasmachado](https://www.linkedin.com/in/cassiofariasmachado)
-- Instagram: [@cassiofariasmachado](https://instagram.com/cassiofariasmachado)
-- Mastodon: [@cassiofariasmachado](https://mastodon.social/@cassiofariasmachado)
+- **E-mail:** [contact@cassiofariasmachado.com](mailto:contact@cassiofariasmachado.com)
+- **LinkedIn:** [in/cassiofariasmachado](https://www.linkedin.com/in/cassiofariasmachado)
+- **GitHub:** [@cassiofariasmachado](https://github.com/cassiofariasmachado)
+- **StackOverflow:** [@cassiofariasmachado](https://stackoverflow.com/users/7015463/cassiofariasmachado)
+- **Mastodon:** [@cassiofariasmachado](https://mastodon.social/@cassiofariasmachado)
+- **BlueSky:** [@cassiofariasmachado.com](https://bsky.app/profile/cassiofariasmachado.com)
