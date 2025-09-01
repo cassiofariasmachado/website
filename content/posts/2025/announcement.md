@@ -16,7 +16,7 @@ hidePagination: false
 fediverse: "@cassiofariasmachado@mastodon.social"
 ---
 
-Hello everyone 👋
+Hello everyone! 👋
 
 I'm starting this project today and this is my first post here.
 
