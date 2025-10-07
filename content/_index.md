@@ -11,7 +11,7 @@ hideBackToTop: false
 
 ## Hi there!
 
-I'm a Senior Software Engineer currently working at [SAP](https://sap.com). I hold a degree in Information Systems from [Unisinos](https://unisinos.br/).
+I am a Software Engineer passionate about solving complex problems and building scalable systems.
 
 I'm interested in various topics, including:
 - Algorithms and data structures;
